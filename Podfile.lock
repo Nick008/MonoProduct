@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - MapleBacon (6.1.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - MapleBacon
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MapleBacon
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  MapleBacon: 05a421f5136fa2a75c6f94d0d617a9520534f220
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: e0a45551b37f6b3d7508b92c2910522510ef96f7
+
+COCOAPODS: 1.10.1
